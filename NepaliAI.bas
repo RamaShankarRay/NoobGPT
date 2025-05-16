@@ -4,7 +4,7 @@ again:
 Cls
 Locate 3, 25
 Color 4, 9
-Print " NEPALI AI - Powered by @NebulaX "
+Print " NoobGPT - Powered by @NebulaX "
 Color 2, 0
 Locate 6, 8
 Print " 1. Talk With AI bot "
